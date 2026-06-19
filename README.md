@@ -1,17 +1,15 @@
 # PyExplain
-PyExplain is a begginer-friendly Python tool
-that explain errors in simple language
 
-## Current Version
-0.0.2
+PyExplain translates Python errors into beginner-friendly explanations.
 
-## What it does
--run Python code
--Catches error
--Explain error in Begginer-friendly language
+## Current version: 0.0.2
 
-## goal
-Make coding easier to understand for begginer
+## Features:
+- Runs Python code
+- Detects common errors
+- Explains errors in simple language
 
-## latest update log
-polished 0.0.1
+## Planned:
+- Line numbers
+- Multi-line editor
+- More error explanations

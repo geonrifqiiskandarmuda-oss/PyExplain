@@ -2,11 +2,11 @@
 
 PyExplain translates Python errors into beginner-friendly explanations.
 
-## Current version: 0.1.0
+## Current version: 0.1.1
 
 ## update log:
-- added gui
--can give you specific line of code that is broken
+- more error explanations
+- infinite loop protection
 
 ## Features:
 - Runs Python code
@@ -14,6 +14,7 @@ PyExplain translates Python errors into beginner-friendly explanations.
 - Explains errors in simple language
 - Multi-line editor
 - cool gui
+- infinite loop protection
 
 ## Planned:
 - Line numbers
